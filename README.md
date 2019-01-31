@@ -1,6 +1,6 @@
-<h1 style="color: #5e9ca0;">Energy harvesting y scavenning</h1>
+<h1 style="color: #5e9ca0;">Energy Harvesting y Scavenging</h1>
 <h2 style="color: #2e6c80;">Objetivo del repositorio</h2>
-<p>El repositorio como tal, muestra un documento de investigacion de Energy harvesting y scavenning, asi como una plantilla hecha en latex, que se puede descargar, por si se quisiera hacer copiar el formato del documento.&nbsp;</p>
+<p>El repositorio como tal, muestra un documento de investigación sobre Energy Harvesting y Scavenging, asi como una plantilla hecha en latex, que se puede descargar, por si se quisiera copiar el formato del documento.&nbsp;</p>
 <p><strong>Nota:&nbsp;</strong>El documento realizado es sin fines de lucro, con el unico proposito de ser usado para la educaci&oacute;n.&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
